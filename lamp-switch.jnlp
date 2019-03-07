@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.0+" codebase=
-"https://rafaies.github.io/LampSwitch" 
+"https://adrianruizmartinez.github.io/LampSwitch" 
     href="lamp-switch.jnlp">
     <information>
         <title>Lamp Switch</title>
